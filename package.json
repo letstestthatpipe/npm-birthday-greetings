@@ -1,0 +1,19 @@
+{
+  "name": "@fafa1012/birthday-greetings",
+  "version": "2.0.0",
+  "description": "birthday greetings to a person of your choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letstestthatpipe/npm-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letstestthatpipe/npm-test/issues"
+  },
+  "homepage": "https://github.com/letstestthatpipe/npm-test#readme"
+}
